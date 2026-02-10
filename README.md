@@ -2,7 +2,7 @@
 
 A hybrid **Web + Desktop** application for uploading, analyzing, and visualizing chemical equipment data from CSV files. Built with a shared Django REST backend consumed by both a React.js web frontend and a PyQt5 desktop frontend.
 
-🔗 **Live Demo**: [http://13.201.134.135](http://13.201.134.135)
+🔗 **Live Demo**: [ec2-13-201-134-135.ap-south-1.compute.amazonaws.com](ec2-13-201-134-135.ap-south-1.compute.amazonaws.com) 
 
 ---
 
