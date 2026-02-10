@@ -1,0 +1,32 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+db.sqlite3
+
+# Node
+web/node_modules/
+web/build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX generated files
+backend/api/report.pdf
+backend/api/report.tex
+backend/api/report.log
+backend/api/report.aux
+
+# Deployment
+*.pem
+deploy_ec2.sh
+nohup.out
+
+# Static files (collected)
+backend/static/
