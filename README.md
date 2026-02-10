@@ -10,13 +10,13 @@ A hybrid **Web and Desktop** application for uploading, analyzing, and visualizi
 
 | Feature | Web (React) | Desktop (PyQt5) |
 |---|---|---|
-| CSV File Upload | ✅ Drag & Drop + Button | ✅ File Dialog |
-| Data Summary (Stats) | ✅ Stat Cards | ✅ Stat Cards |
-| Chart Visualization | ✅ Chart.js Bar Chart | ✅ Matplotlib Bar Chart |
-| Data Table | ✅ Styled HTML Table | ✅ QTableWidget |
-| Upload History (Last 5) | ✅ Sidebar List | ✅ Right Panel |
-| PDF Report Generation | ✅ Download Button | ✅ Download Button |
-| Basic Authentication | ✅ Session Auth | ✅ Login Dialog |
+| CSV File Upload | Drag & Drop + Button | File Dialog |
+| Data Summary (Stats) | Stat Cards | Stat Cards |
+| Chart Visualization | Chart.js Bar Chart | Matplotlib Bar Chart |
+| Data Table | Styled HTML Table | QTableWidget |
+| Upload History (Last 5) | Sidebar List | Right Panel |
+| PDF Report Generation in Latex Format | Download Button | Download Button |
+| Basic Authentication | Session Auth | Login Dialog |
 
 ---
 
