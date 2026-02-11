@@ -192,13 +192,4 @@ The web version is deployed on **AWS EC2** (Mumbai region):
 
 ---
 
-## 📹 Demo Video
-
-A short demo video (2–3 minutes) showcasing:
-1. CSV upload on both Web and Desktop
-2. Data visualization (charts + tables)
-3. PDF report download
-4. Upload history management
-
----
 
