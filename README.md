@@ -4,6 +4,8 @@ A hybrid **Web and Desktop** application for uploading, analyzing, and visualizi
 
 🔗 **Live Demo**: [http://ec2-13-201-134-135.ap-south-1.compute.amazonaws.com/](http://ec2-13-201-134-135.ap-south-1.compute.amazonaws.com/) 
 
+**Note**: The deployed link uses HTTP. On networks with strict firewalls or web-filtering policies (for example, college networks with Fortinet or similar security appliances), HTTP traffic may be blocked or restricted. If the link does not open on such Wi-Fi networks, please try accessing it via a personal hotspot or an unrestricted network.
+
 ---
 
 ## 📋 Features
